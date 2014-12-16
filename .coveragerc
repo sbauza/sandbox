@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = sandbox
+omit = sandbox/tests/*,sandbox/openstack/*
+
+[report]
+ignore-errors = True
